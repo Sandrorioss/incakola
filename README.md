@@ -1,4 +1,4 @@
-+Programming Fundamentals Final Project 1 - Inca Kola Inventory Management
+_Programming Fundamentals Final Project 1 - Inca Kola Inventory Management_
 -This repository contains the final project developed for the Programming Fundamentals 1 course. The objective is to create a Java program to manage the inventory of stores that sell Inca Kola.
 
 +Project description
