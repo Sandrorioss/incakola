@@ -9,7 +9,6 @@ This project proposes a system to manage Inca Kola products in stores. Let's ide
 
 -Repository Structure
 /src: Here is the source code of the project in Java.
-/docs: Important documentation, such as analysis, design, and user guides.
 README.md: This file you are reading, which explains the project and how to use it.
 
 -Instructions for use
