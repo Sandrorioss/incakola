@@ -8,7 +8,7 @@ The project seeks to improve how inventory is managed at Inca Kola points of sal
 This project proposes a system to manage Inca Kola products in stores. Let's identify what is needed, how to do it and what results we expect. We will use Java to build this system and organize everything in this repository.
 
 -Repository Structure
-/src: Here is the source code of the project in Java.
+Gestiom.java: Here is the source code of the project in Java.
 README.md: This file you are reading, which explains the project and how to use it.
 
 -Instructions for use
